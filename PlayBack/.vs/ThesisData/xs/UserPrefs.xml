@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{F3859628-3B54-0BE8-B2C2-AB18ECF5AA17}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DataAnalysing/DataParser.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DataAnalysing/DataParser.cs" Line="75" Column="47" />
+      <File FileName="Assets/Data/FinalData/FinalData.csv" Line="1" Column="82" />
+      <File FileName="Assets/Scripts/User Test Scripts/DataAnalyzer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="95654cd2-4912-4bc5-bf19-6d82e59fd74e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
