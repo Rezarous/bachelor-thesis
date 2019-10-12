@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8E912EDB-CA60-A14A-CD51-073B46FD3EE0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Test/UDPReceive.cs">
+    <Files>
+      <File FileName="Assets/Test/UDPReceive.cs" Line="60" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e10a47f6-a6a5-4aae-ad42-3624df3114ff" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
