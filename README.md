@@ -1,4 +1,4 @@
-Source code of the "Integrating Outside-In Tracking to Improve Real-to-Virtual Object Registration with HoloLens" bachelor's thesis.
+Source code of the "Integrating Outside-In Tracking to Improve Real-to-Virtual Object Registration with HoloLens" bachelor's thesis at at NarvisLab.
 -----------
 <ul>
 <li>ART HoloLens: The software implementation of integrating ART tracking system into HoloLens in Unity3D.</li>
